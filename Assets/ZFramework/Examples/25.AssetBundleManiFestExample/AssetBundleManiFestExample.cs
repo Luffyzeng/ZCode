@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace ZFramework
+namespace ZCode
 {
     public class AssetBundleManiFestExample : MonoBehaviour
     {

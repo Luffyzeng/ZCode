@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace ZFramework
+namespace ZCode
 {
     public enum ResState
     {

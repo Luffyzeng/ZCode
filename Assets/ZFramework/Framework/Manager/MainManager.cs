@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ZFramework
+namespace ZCode
 {
 //1. 	开发阶段：不不断地编码->验证结果->编码->验证结果->…….
 //2. 	出包/真机阶段：这个阶段主要是跑完整流程，在真机上跑跑，给 QA 测测。

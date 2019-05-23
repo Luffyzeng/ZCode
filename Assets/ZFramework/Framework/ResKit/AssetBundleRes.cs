@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace ZFramework
+namespace ZCode
 {
     public class AssetBundleRes : Res
     {

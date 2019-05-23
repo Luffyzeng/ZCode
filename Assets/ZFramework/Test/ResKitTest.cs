@@ -3,7 +3,7 @@ using NUnit.Framework;
 using System.Collections;
 using UnityEngine;
 
-namespace ZFramework.Tests
+namespace ZCode.Tests
 {
     public class ResKitTest {
 

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ZFramework
+namespace ZCode
 {
     public abstract partial class MonoBehaviourSimplify : MonoBehaviour
     {

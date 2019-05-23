@@ -1,7 +1,7 @@
 ﻿
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using ZFramework;
+using ZCode;
 
 //在某个游戏里实现的
 namespace Game

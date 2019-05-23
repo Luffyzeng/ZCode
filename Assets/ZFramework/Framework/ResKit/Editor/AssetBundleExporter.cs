@@ -3,7 +3,7 @@ using UnityEngine;
 using System.IO;
 using UnityEditor;
 
-namespace ZFramework
+namespace ZCode
 {
     public class AssetBundleExporter : MonoBehaviour
     {

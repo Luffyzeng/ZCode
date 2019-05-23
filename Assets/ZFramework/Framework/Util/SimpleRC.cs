@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ZFramework
+namespace ZCode
 {
     public interface IRefCounter
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ZFramework
+namespace ZCode
 {
     public abstract class MonoSingleton<T> : MonoBehaviour where T:MonoSingleton<T>
     {

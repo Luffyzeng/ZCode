@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ZFramework
+namespace ZCode
 {
     public class UIXXXPanel : MonoBehaviour
     {

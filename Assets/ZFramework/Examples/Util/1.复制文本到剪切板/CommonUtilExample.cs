@@ -1,5 +1,5 @@
 ﻿
-namespace ZFramework
+namespace ZCode
 {
     public class CommonUtilExample
     {

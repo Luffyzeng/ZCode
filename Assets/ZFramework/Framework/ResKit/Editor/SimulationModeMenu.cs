@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace ZFramework
+namespace ZCode
 {
     public class SimulationModeMenu 
     {

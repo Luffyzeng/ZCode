@@ -3,7 +3,7 @@
 using UnityEditor;
 #endif
 
-namespace ZFramework
+namespace ZCode
 {
     public partial class EditorUtil
     {

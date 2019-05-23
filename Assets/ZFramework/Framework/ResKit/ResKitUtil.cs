@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace ZFramework
+namespace ZCode
 {
     public class ResKitUtil
     {

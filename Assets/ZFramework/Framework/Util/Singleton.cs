@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using UnityEngine;
 
-namespace ZFramework
+namespace ZCode
 {
     public abstract class Singleton<T> where T:Singleton<T>
     {

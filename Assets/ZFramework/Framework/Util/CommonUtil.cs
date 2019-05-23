@@ -1,7 +1,7 @@
 ﻿
 using UnityEngine;
 
-namespace ZFramework
+namespace ZCode
 {
     public partial class CommonUtil
     {

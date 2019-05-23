@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace ZFramework
+namespace ZCode
 {
     public enum UILayer
     {
