@@ -1,0 +1,14 @@
+﻿
+namespace ZCode
+{
+    public class CommonUtilExample
+    {
+#if UNITY_EDITOR
+        [UnityEditor.MenuItem("ZCode/Examples/1.复制文本到剪切板", false, 1)]
+#endif
+        static void MenuClicked()
+        {
+            CommonUtil.CopyText("复制的文本");
+        }
+    }
+}
