@@ -9,6 +9,8 @@ public class Test01 : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         //typeof(Test01).GetConstructors(System.Reflection.BindingFlags.Instance | System.Reflection.BindingFlags.n)
+
+        Dictionary<char, int> dict;
 	}
 	
 	// Update is called once per frame
